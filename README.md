@@ -42,7 +42,7 @@ python ./project/mad/data/merge_annotations.py
 
 ### Training
 ```bash
-python tools/train_net.py --num-gpus 4 --dist-url auto --config-file ./project/mad/model/config.py
+python tools/train_net.py --num-gpus 8 --dist-url auto --config-file ./project/mad/model/config.py
 ```
 
 ### Evaluation
