@@ -1,5 +1,5 @@
 ## Masked AutoDecoder
-This is the official implementation of the paper "[Masked AutoDecoder is Effective Multi-Task Vision Generalist](url=https://openaccess.thecvf.com/content/CVPR2024/html/Qiu_Masked_AutoDecoder_is_Effective_Multi-Task_Vision_Generalist_CVPR_2024_paper.html)" 
+This is the official implementation of the paper "[Masked AutoDecoder is Effective Multi-Task Vision Generalist](https://openaccess.thecvf.com/content/CVPR2024/html/Qiu_Masked_AutoDecoder_is_Effective_Multi-Task_Vision_Generalist_CVPR_2024_paper.html)" 
 
 Authors: Han Qiu, Jiaxing Huang, Peng Gao, Lewei Lu, Xiaoqin Zhang, Shijian Lu
 
